@@ -7,10 +7,10 @@ const answer = document.getElementById('answer')
 button.addEventListener('click', (e) => {
     e.preventDefault()
     const data = {
-        username: username.value,
+        
         password: password.value
     }
-    if(password.value === 'caca'){
+    if(password.value === 'cooperaccion'){
         console.log('bienvenido');
         form.classList.add('off')
         answer.classList.remove('off')
