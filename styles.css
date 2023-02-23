@@ -45,7 +45,7 @@ form {
     border-radius: 5px;
     box-shadow: 0 5px 10px rgba(11, 3, 71, 0.7);
 }
-.flip-card {
+.flip-card {margin-top: 30px;
     background-color: #212427;
     width: 60vh;
     border-radius: 10px;
